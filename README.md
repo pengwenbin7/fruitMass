@@ -1,0 +1,1 @@
+这是一个Android图像处理软件，数据拟合部分用Matlab处理，依赖于OpenCV库
